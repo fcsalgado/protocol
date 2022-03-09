@@ -13,8 +13,11 @@
 
 ## **Current set up**
 
-1. ![CO2 setup](https://raw.githubusercontent.com/fcsalgado/protocol/main/co2.jpg)
+### CO2 setup
+![CO2 setup](https://raw.githubusercontent.com/fcsalgado/protocol/main/co2.jpg)
+### Photographic setup
 ![Photo setup](https://raw.githubusercontent.com/fcsalgado/protocol/main/photo.jpg)
+### Solar simulator and chiller setup
 ![Solar simulator and Thermochamber setup](https://raw.githubusercontent.com/fcsalgado/protocol/main/sola_sim.jpg)
 
 ## **Things to do before you begin**
